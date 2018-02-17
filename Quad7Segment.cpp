@@ -24,11 +24,11 @@ void Quad7Segment::setup(){
   //implement this
 }
 
-void update(){
+void Quad7Segment::update(){
   //implement this
 }
 
-void setNumber(int n){
+void Quad7Segment::setNumber(int n){
   //implement this
 }
 
